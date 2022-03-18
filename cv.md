@@ -5,9 +5,9 @@
 
 ### Contact
 
-**E-mail:** kolya_faluk@mail.ru
-**Discord-nickname:** Faliuk Nikolai#0192
-[LinkedIn](https://www.linkedin.com/in/nikolai-faliuk-2679281b2/)
+- **E-mail:** kolya_faluk@mail.ru
+- **Discord-nickname:** Faliuk Nikolai#0192
+- [LinkedIn](https://www.linkedin.com/in/nikolai-faliuk-2679281b2/)
 
 ---
 
