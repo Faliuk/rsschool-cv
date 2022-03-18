@@ -44,9 +44,9 @@ const func = (num) => {
 
 ## Experience
 
--**Company:** IRD "ID Centre"
--**Position:** Software Engineer
--**Projects:** GIS Animal Identification Traceability System (trace.by)
+- **Company:** IRD "ID Centre"
+- **Position:** Software Engineer
+- **Projects:** GIS Animal Identification Traceability System (trace.by)
 
 ## Education
 
@@ -54,5 +54,5 @@ I`ve graduated from Belarusian State Technological University, Faculty Informati
 
 ## Languages
 
--**Russian** Native
--**English** A2
+- **Russian Native**
+- **English A2**
