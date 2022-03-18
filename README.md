@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Faliuk.github.io/rsschool-cv/cv
