@@ -50,6 +50,6 @@ const func = (num) => {
 ## Education
 I`ve graduated from Belarusian State Technological University, Faculty Information systems and technologies in 2017.
 
-##Languages
+## Languages
 **Russian** Native
 **English** A2
