@@ -43,13 +43,16 @@ const func = (num) => {
 ```
 
 ## Experience
+
 **Company:** IRD "ID Centre"
 **Position:** Software Engineer
 **Projects:** GIS Animal Identification Traceability System (trace.by)
 
 ## Education
+
 I`ve graduated from Belarusian State Technological University, Faculty Information systems and technologies in 2017.
 
 ## Languages
+
 **Russian** Native
 **English** A2
