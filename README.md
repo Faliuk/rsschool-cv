@@ -1,1 +1,1 @@
-https://Faliuk.github.io/rsschool-cv/html
+https://Faliuk.github.io/rsschool-cv/
